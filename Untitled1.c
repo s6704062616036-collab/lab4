@@ -1,16 +1,3 @@
-//#include <stdio.h>
-//int main (void)
-//{
-//int i,j;
-//for ( i = 1; i <= 3; i++) {	
-//	printf("Row %d: ", i);
-//	for ( j = 1; j<= 5; j++)
-//		printf("%3d", j);
-//		printf("\n");
-//	} // for i
-//return 0;
-//} // main
-
 #include <stdio.h>
 int main (void)
 {
@@ -24,3 +11,4 @@ int main (void)
 		
 	}
 } 
+
